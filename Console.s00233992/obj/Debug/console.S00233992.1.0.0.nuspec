@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>console.S00233992</id>
+    <version>1.0.0</version>
+    <authors>console.S00233992</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="d9e2968659428e6bae48412ed03f5084eb0307db" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="RAD302Week3Lab12025CL.S00233992" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Tracker" version="1.0.7-beta" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\vladk\OneDrive - Atlantic TU\Desktop\SEMESTER 2 YEAR 3\RAD302\Lab3\RadLab_Week3_Upload\RAD302Week3Lab12025CL.S00233992\console.S00233992\bin\Debug\net8.0\console.S00233992.runtimeconfig.json" target="lib\net8.0\console.S00233992.runtimeconfig.json" />
+    <file src="C:\Users\vladk\OneDrive - Atlantic TU\Desktop\SEMESTER 2 YEAR 3\RAD302\Lab3\RadLab_Week3_Upload\RAD302Week3Lab12025CL.S00233992\console.S00233992\bin\Debug\net8.0\console.S00233992.dll" target="lib\net8.0\console.S00233992.dll" />
+  </files>
+</package>
